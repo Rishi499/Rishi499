@@ -48,6 +48,12 @@
 <br>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Rishi499/Rishi499/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
   <h3>📉 Language & Contribution Breakdown</h3>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi499&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
@@ -64,7 +70,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00C9FF,92FE9D&height=5&section=footer" />
   <br>
   <h3>📬 Contact Me</h3>
-  <a href="mailto:=rishirajdutta499@gmail.com">
+  <a href="mailto:rishirajdutta499@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
