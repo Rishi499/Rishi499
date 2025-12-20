@@ -1,95 +1,70 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Rishi499&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20DSA%20Expert%20%7C%20Web%20Architect&descAlignY=51&descAlign=50" />
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00C9FF,92FE9D&height=250&section=header&text=Rishi499&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20DSA%20%7C%20Web%20Dev&descAlignY=60&descAlign=50" alt="Rishi499 Header" />
+
+  <br>
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Building+Scalable+Python+Systems;Cracking+DSA+Problems;Full+Stack+Web+Development;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=435&lines=I+speak+Python+and+Algorithms;Building+Scalable+Web+Apps;Solving+LeetCode+Hard+Problems;Always+Learning+New+Tech" alt="Typing SVG" />
   </a>
 
   <br>
-  
-  <p align="center">
+
+  <p>
     <a href="https://github.com/Rishi499">
-      <img src="https://komarev.com/ghpvc/?username=Rishi499&label=Profile%20Views&color=0e75b6&style=flat" alt="Rishi499" />
-    </a>
-    <a href="https://github.com/Rishi499?tab=followers">
       <img src="https://img.shields.io/github/followers/Rishi499?label=Followers&style=social" alt="Followers" />
+    </a>
+    <a href="https://github.com/Rishi499">
+      <img src="https://komarev.com/ghpvc/?username=Rishi499&label=Profile%20Views&color=blue&style=flat" alt="Views" />
     </a>
   </p>
 </div>
 
----
-
-<div align="center"> 
-  <h3>🚀 Code. Optimize. Scale.</h3>
-  <br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rishi499&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
-</div>
-
 <br>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>👨‍💻 About Me</h3>
+<table align="center" width="100%" style="border: none;">
+  <tr style="border: none;">
+    <td width="50%" align="left" style="border: none;">
+      <h3>⚡ About Me</h3>
       <ul>
-        <li>🔭 Currently working on <b>Advanced Python Backend Systems</b></li>
-        <li>🌱 Deepening knowledge in <b>Data Structures & Algorithms (C++/Python)</b></li>
-        <li>👯 Looking to collaborate on <b>Open Source Python Tools</b></li>
-        <li>🎓 Active <b>Computer Science Student</b></li>
-        <li>⚡ <b>Core Philosophy:</b> "Clean code is not just code that works, but code that can be understood."</li>
+        <li>🔭 I’m currently working on <b>Full Stack Python Projects</b>.</li>
+        <li>🧩 I’m grinding <b>DSA (Data Structures & Algorithms)</b>.</li>
+        <li>🐍 <b>Python</b> is my primary weapon of choice.</li>
+        <li>🎓 I am a <b>Student</b> passionate about writing clean code.</li>
+        <li>⚡ <b>Fun Fact:</b> I love optimizing code for efficiency.</li>
       </ul>
+      <br>
+      <h3>🛠️ Tech Stack</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,nodejs,git,vscode,github,linux&perline=6" />
+      </p>
     </td>
-    <td width="45%" valign="top">
-      <h3>📈 Weekly Dev Activity</h3>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rishi499&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Ensure you have WakaTime connected or remove this line if not used" />
+    <td width="50%" align="center" style="border: none;">
+      <h3>📊 Weekly Activity</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=Rishi499&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rishi's Stats" />
     </td>
   </tr>
 </table>
 
----
+<br>
 
-<h3 align="center">🛠️ Technical Arsenal</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,nodejs,git,vscode,github,linux&perline=15" />
+  <h3>📉 Language & Contribution Breakdown</h3>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi499&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi499&bg_color=0D1117&color=e94d5f&line=e94d5f&point=ffffff&area=true&hide_border=true" alt="Rishi499 Activity Graph" />
+  
 </div>
 
----
-
-<h3 align="center">📊 GitHub Analytics</h3>
+<br>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rishi499&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=E94D5F&icon_color=E94D5F" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi499&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E94D5F&langs_count=6" />
-  </a>
-</div>
-
-<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00C9FF,92FE9D&height=5&section=footer" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi499&theme=tokyonight&hide_border=true&background=0D1117&fire=E94D5F&ring=E94D5F&currStreakLabel=E94D5F" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github.com/Rishi499/Rishi499/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</div>
-
----
-
-<div align="center">
-  <h3>📬 Let's Connect</h3>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/your-insta">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <h3>📬 Contact Me</h3>
+  <a href="mailto:=rishirajdutta499@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
