@@ -54,6 +54,13 @@
 <br>
 
 <div align="center">
+  <h3>⚔️ LeetCode Status</h3>
+  <a href="https://leetcode.com/Rishi499">
+    <img src="https://leetcard.jacoblin.cool/TheLuciFer159?theme=radical&font=Fira%20Code&ext=heatmap" alt="Rishi's LeetCode Stats" />
+  </a>
+</div>
+
+<div align="center">
   <h3>📉 Language & Contribution Breakdown</h3>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi499&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
