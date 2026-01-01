@@ -21,30 +21,24 @@
 
 <br>
 
-<table align="center" width="100%" style="border: none;">
-  <tr style="border: none;">
-    <td width="50%" align="left" style="border: none;">
-      <h3>⚡ About Me</h3>
-      <ul>
-        <li>🔭 I’m currently working on <b>Full Stack Python Projects</b>.</li>
-        <li>🧩 I’m grinding <b>DSA (Data Structures & Algorithms)</b>.</li>
-        <li>🐍 <b>Python</b> is my primary weapon of choice.</li>
-        <li>🎓 I am a <b>Student</b> passionate about writing clean code.</li>
-        <li>⚡ <b>Fun Fact:</b> I love optimizing code for efficiency.</li>
-      </ul>
-      <br>
-      <h3>🛠️ Tech Stack</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,nodejs,git,vscode,github,linux&perline=6" />
-      </p>
-    </td>
-    <td width="50%" align="center" style="border: none;">
-      <h3>📊 Weekly Activity</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Rishi499&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rishi's Stats" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>⚡ About Me</h3>
+  <br>
+  🔭 I’m currently working on <b>Full Stack Python Projects</b>.
+  <br><br>
+  🧩 I’m grinding <b>DSA (Data Structures & Algorithms)</b>.
+  <br><br>
+  🐍 <b>Python</b> is my primary weapon of choice.
+  <br><br>
+  🎓 I am a <b>Student</b> passionate about writing clean code.
+  <br><br>
+  ⚡ <b>Fun Fact:</b> I love optimizing code for efficiency.
+  
+  <br><br>
 
+  <h3>🛠️ Tech Stack</h3>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,nodejs,git,vscode,github,linux&perline=14" />
+</div>
 <br>
 
 <div align="center">
@@ -58,17 +52,6 @@
   <a href="https://leetcode.com/Rishi499">
     <img src="https://leetcard.jacoblin.cool/TheLuciFer159?theme=radical&font=Fira%20Code&ext=heatmap" alt="Rishi's LeetCode Stats" />
   </a>
-</div>
-
-<div align="center">
-  <h3>📉 Language & Contribution Breakdown</h3>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi499&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi499&bg_color=0D1117&color=e94d5f&line=e94d5f&point=ffffff&area=true&hide_border=true" alt="Rishi499 Activity Graph" />
-  
 </div>
 
 <br>
